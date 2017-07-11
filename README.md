@@ -23,4 +23,6 @@ Both the AlAdhan API and AlQuran API are not *yet* open source. However, if you 
 
 ## Communication and Project Management Tools
 
+## Licensing
+
 ## Contacts
