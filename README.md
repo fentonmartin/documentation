@@ -12,7 +12,7 @@ Currently, this project includes all Open Sourced code related to the following 
    * <a href="https://github.com/islamic-apps/aladhan-wordpress-plugin">AlAdhan WordPress Plugin</a>
    * <a href="https://github.com/islamic-apps/aladhan-drupal-module">AlAdhan Drupal Module</a>
 * AlQuran Cloud - https://alquran.Cloud
- * <a href="https://github.com/islamic-apps/alquran-web-app">AlQuran Cloud Web App</a>
+   * <a href="https://github.com/islamic-apps/alquran-web-app">AlQuran Cloud Web App</a>
    * <a href="https://github.com/islamic-apps/alquran-api-client-php">AlQuran Cloud PHP API Client</a>
    * <a href="https://github.com/islamic-apps/alquran-tools">AlQuran Cloud Tools</a>
 
