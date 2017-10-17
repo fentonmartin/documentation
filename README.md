@@ -17,6 +17,7 @@ Currently, this project includes all Open Sourced code related to the following 
    * <a href="https://github.com/islamic-apps/alquran-web-app">AlQuran Cloud Web App</a>
    * <a href="https://github.com/islamic-apps/alquran-api-client-php">AlQuran Cloud PHP API Client</a>
    * <a href="https://github.com/islamic-apps/alquran-tools">AlQuran Cloud Tools</a>
+* <a href="https://github.com/islamic-apps/islamic-apps-docker">Islamic Apps Docker Template</a>
 
 ## Coding Guidelines and Tools
 Information on specific tools can be found within each repository. Some repositories use frameworks and others do not. As a rule, unless otherwise necessary, the attempt has been to use a micro framework - and I've mostly chosen to use <a href="https://github.com/slimphp/Slim">Slim</a>, because it felt slimmer then Silex and Lumen.
